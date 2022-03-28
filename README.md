@@ -1,4 +1,4 @@
-# Geolocaliza-oOmegle
+# Geolocalizao Omegle
 Projeto feito com JavaScript para alertar para os usuários a fragilidade desse site
 
 ## Passo a Passo
@@ -13,5 +13,5 @@ Projeto feito com JavaScript para alertar para os usuários a fragilidade desse 
 ###O alerta se deve principalmente ao fato que com apenas 
 algumas linhas de código qualquer pessoa pode obter a geolocalização do usuário 
 (é possível saber até mesmo o bairro ou distrito da pessoa pelo Ip).</br>
-###Se quiser testar essa fragilidade, só seguir as instruções acima.
+**Se quiser testar essa fragilidade, só seguir as instruções acima.**
 
