@@ -10,7 +10,7 @@ Projeto feito com JavaScript para alertar para os usuários a fragilidade desse 
 <p>5) Pressione o Enter e mantenha com o Console aberto enquanto comunica com o desconhecido</p></br>
 <p>6) A cada desconhecido atualizará automaticamente a localização dele a menos que esta pessoa esteja usando uma VPN</p></br>
 
-###O alerta se deve principalmente ao fato que com apenas 
+O alerta se deve principalmente ao fato que com apenas 
 algumas linhas de código qualquer pessoa pode obter a geolocalização do usuário 
 (é possível saber até mesmo o bairro ou distrito da pessoa pelo Ip).</br>
 **Se quiser testar essa fragilidade, só seguir as instruções acima.**
